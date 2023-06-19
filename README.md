@@ -16,7 +16,7 @@ To set up the project, follow the instructions below:
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/ParthGupta-HL/translation-api.git
+git clone https://github.com/ParthGupta-HL/Assignment.git
 ```
 
 2. Activate the virtual environment:
